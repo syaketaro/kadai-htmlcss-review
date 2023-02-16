@@ -10,6 +10,10 @@ header {
 	background-color: #ffcccc
 }
 
+header p {
+	margin:0;
+}
+
 #wrapper {
 	width: 1000px;
     display: flex;
@@ -29,4 +33,8 @@ header {
 footer {
 	width: 1000px;
 	background-color: #ffccff;
+}
+
+footer p {
+	margin: 0;
 }
